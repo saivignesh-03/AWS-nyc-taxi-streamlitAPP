@@ -32,23 +32,23 @@
 
 ### Step 1: Navigate to the Project Directory
 
-cd streamlit-eb
+```cd streamlit-eb```
 
 ### Step 2: Create and Activate a Virtual Environment
 
-python3 -m venv .venv
+```python3 -m venv .venv
 source .venv/bin/activate     # On Linux/Mac
 # OR
 .venv\Scripts\activate        # On Windows
-
+```
 ### Step 3: Install Required Python Libraries
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 
 ### Step 4 (Optional): Run Streamlit App Locally
 
-streamlit run app.py
+```streamlit run app.py```
 
 ## 🚀 How to Deploy the Application on AWS Elastic Beanstalk
 

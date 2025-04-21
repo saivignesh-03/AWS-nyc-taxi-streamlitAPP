@@ -78,4 +78,10 @@ eb deploy
 eb open
 ```
 
+## terminate the eb
+```
+eb terminate
+```
+
+
 
